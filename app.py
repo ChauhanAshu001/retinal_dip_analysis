@@ -11,7 +11,7 @@ from src.metrics import calculate_vessel_density, evaluate_segmentation
 st.set_page_config(page_title="Retinal DIP Analyzer", layout="wide")
 
 st.title("🩺 Retinal DIP Analysis & Feature Extraction")
-st.markdown("Computer Science & Engineering — Digital Image Processing Lab")
+# st.markdown("Computer Science & Engineering — Digital Image Processing Lab")
 
 # --- SIDEBAR CONTROLS ---
 st.sidebar.header("🎛️ Algorithm Hyperparameters")
